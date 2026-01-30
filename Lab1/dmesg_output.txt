@@ -1,0 +1,10 @@
+[ 4139.054554] workqueue: e1000_watchdog [e1000] hogged CPU for >10000us 11 times, consider switching to WQ_UNBOUND
+[ 4173.072590] workqueue: blk_mq_requeue_work hogged CPU for >10000us 7 times, consider switching to WQ_UNBOUND
+[ 4173.189677] workqueue: blk_mq_run_work_fn hogged CPU for >10000us 35 times, consider switching to WQ_UNBOUND
+[ 4389.257649] Loading Module
+[ 4389.257656] init_task pid:0
+[ 4389.257657] init_task state:0
+[ 4389.257658] init_task flags:69206018
+[ 4389.257659] init_task runtime priority:0
+[ 4389.257660] init_task process policy:0
+[ 4389.257660] init_task tgid:0
