@@ -18,8 +18,8 @@
 
 #define BUFFER_SIZE 128
 
-#define PROC_NAME "hello"
-#define MESSAGE "Hello World\n"
+#define PROC_NAME "seconds"
+#define MESSAGE "seconds module\n"
 
 unsigned long start_time; 
 
